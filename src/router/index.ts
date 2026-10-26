@@ -46,6 +46,11 @@ const routes = [
         component: () => import('@/views/Endpoints.vue'),
       },
       {
+        path: '/nodes',
+        name: 'pages.nodes',
+        component: () => import('@/views/Nodes.vue'),
+      },
+      {
         path: '/rules',
         name: 'pages.rules',
         component: () => import('@/views/Rules.vue'),
