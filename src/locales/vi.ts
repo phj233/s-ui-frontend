@@ -275,6 +275,7 @@ export default {
     name: "Khu vực / tên nút",
     apiUrl: "URL bảng điều khiển S-UI từ xa",
     token: "API token từ xa",
+    tokenHint: "Đăng nhập bảng điều khiển S-UI từ xa, mở {admins} → {token} → {add}, rồi sao chép mã mới vào đây.",
     remoteInbounds: "Inbound nhận người dùng được đồng bộ",
     test: "Kiểm tra kết nối và tải inbound",
     testHint: "Nhập URL bảng điều khiển và API token rồi kiểm tra kết nối.",

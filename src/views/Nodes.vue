@@ -150,9 +150,11 @@
         <v-text-field
           v-model="draft.token"
           :label="$t('nodes.token')"
+          :hint="$t('nodes.tokenHint', { admins: $t('pages.admins'), token: $t('admin.api.token'), add: $t('actions.add') })"
           type="password"
           autocomplete="new-password"
           dir="ltr"
+          persistent-hint
         />
         <v-row
           align="center"

@@ -275,6 +275,7 @@ export default {
     name: "地区/节点名称",
     apiUrl: "远程 S-UI 面板地址",
     token: "远程 API 令牌",
+    tokenHint: "登录远程服务器的 S-UI 面板，在“{admins}”→“{token}”中点击“{add}”，复制生成的令牌填到这里。",
     remoteInbounds: "同步用户的入站",
     test: "测试连接并读取入站",
     testHint: "填写地址和 API 令牌后测试连接。",

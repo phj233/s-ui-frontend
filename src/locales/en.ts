@@ -275,6 +275,7 @@ export default {
     name: "Region / node name",
     apiUrl: "Remote S-UI panel URL",
     token: "Remote API token",
+    tokenHint: "In the remote S-UI panel, open {admins} → {token} → {add}, then paste the new token here.",
     remoteInbounds: "Inbounds to receive synced users",
     test: "Test connection and load inbounds",
     testHint: "Enter the panel URL and API token, then test the connection.",

@@ -275,6 +275,7 @@ export default {
     name: "地區／節點名稱",
     apiUrl: "遠端 S-UI 面板網址",
     token: "遠端 API 權杖",
+    tokenHint: "登入遠端伺服器的 S-UI 面板，在「{admins}」→「{token}」中點選「{add}」，將產生的權杖複製到這裡。",
     remoteInbounds: "同步用戶的入站",
     test: "測試連線並讀取入站",
     testHint: "輸入面板網址和 API 權杖後測試連線。",
