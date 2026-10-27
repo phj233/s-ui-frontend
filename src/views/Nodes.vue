@@ -228,7 +228,12 @@ import Data from '@/store/modules/data'
 import HttpUtils from '@/plugins/httputil'
 import { i18n } from '@/locales'
 
-interface RemoteInbound { id: number, type: string, tag: string, listen_port: number }
+interface RemoteInbound {
+  id: number
+  type: string
+  tag: string
+  listen_port: number
+}
 interface ManagedNode {
   id: number
   name: string
