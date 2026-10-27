@@ -146,7 +146,6 @@ export default {
     clone: "Nhân bản",
     test: "Kiểm tra",
     testAll: "Kiểm tra tất cả",
-    syncNodes: "Đồng bộ nút",
     save: "Lưu",
     update: "Cập nhật",
     submit: "Gửi",

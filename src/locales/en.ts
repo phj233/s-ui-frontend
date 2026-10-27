@@ -146,7 +146,6 @@ export default {
     clone: "Clone",
     test: "Test",
     testAll: "Test all",
-    syncNodes: "Sync nodes",
     save: "Save",
     update: "Update",
     submit: "Submit",

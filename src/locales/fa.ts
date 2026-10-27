@@ -146,7 +146,6 @@ export default {
     clone: "شبیه‌سازی",
     test: "تست",
     testAll: "تست همه",
-    syncNodes: "همگام‌سازی گره‌ها",
     save: "ذخیره",
     update: "بروزرسانی",
     submit: "ارسال",

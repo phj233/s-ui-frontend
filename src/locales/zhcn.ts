@@ -146,7 +146,6 @@ export default {
     clone: "克隆",
     test: "测试",
     testAll: "测试全部",
-    syncNodes: "同步节点",
     save: "保存",
     update: "更新",
     submit: "提交",

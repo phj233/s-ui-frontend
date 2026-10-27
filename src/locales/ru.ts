@@ -146,7 +146,6 @@ export default {
     clone: "Клонировать",
     test: "Тест",
     testAll: "Тестировать все",
-    syncNodes: "Синхронизировать узлы",
     save: "Сохранить",
     update: "Обновить",
     submit: "Отправить",
